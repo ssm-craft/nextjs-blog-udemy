@@ -28,7 +28,7 @@ export default function Home({ allPostsData }) {
     </Head>
     <section>
       <p className={utilStyle.headingMd}>
-        私はフルスタックエンジニアです/Udemy講師として活動しています/好きな言語はJavascriptです
+        フロントエンドエンジニアです/Udemy講師として活動しています/好きな言語はJavascriptです
       </p>
     </section>
 
